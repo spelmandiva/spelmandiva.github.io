@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Black History's Child..... I remember
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Nishani Frazier
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Annoyed Luddite"
+  email: #nishani2@yahoo.com
   disqus-shortname:
-  twitter: #username
+  twitter: #@spelmandiva
   facebook: #username
   google:
     plus: #username
